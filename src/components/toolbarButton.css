@@ -1,0 +1,11 @@
+.toolbar-button {
+  background-color: rgb(25,25,25);
+  color: #ccc !important;
+  border: 0px;
+  padding: 10px 20px;
+}
+
+img.toolbar-button {
+  width: 20px;
+  margin-right: 5px;
+}
